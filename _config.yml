@@ -1,0 +1,10 @@
+title: My First Website
+email: yatindrarohit@gmail.com
+description: This is my own website
+twitter_username: yatindra_rohit
+Github_username: Rohit14jan
+
+#Some designs
+theme: minima
+plugins:
+  -jekyll-feed
